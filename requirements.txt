@@ -1,0 +1,7 @@
+pandas
+psycopg2-binary
+pmdarima
+statsmodels
+xgboost
+tensorflow
+lightgbm
